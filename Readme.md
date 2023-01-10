@@ -1,7 +1,4 @@
-**How it looks**
+**MPV CONFIG**
 
 
-
-
-
-[mpv.webm](https://user-images.githubusercontent.com/98797514/211489694-d5a90760-7657-4bfa-af7b-0ad3e2c94618.webm)
+Place all the files in `mpv` folder.
